@@ -7,13 +7,10 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 **Objetivos:**
 
 1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+   - Essencial para alcançarmos nossos objetivos -> Username: naejshaw
 
 2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
+   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome -> Repositório gerado através de um fork
 
 3. **Colaboração:**
    - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
@@ -21,8 +18,7 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
    - Realizem alterações, Commits, abra issues e pull requests.
 
 4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   - Edite o arquivo "README.md" em seu repositório -> Editado diretamente no arquivo README
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
